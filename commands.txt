@@ -52,3 +52,9 @@ Verbose: npm run buil --dd
 Deprecated libraries
 
 npm ci
+
+npm link
+
+npm adduser
+
+npm publish

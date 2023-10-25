@@ -28,6 +28,17 @@ npm install package@latest
 NPM, node package manager
 NPX, node package execute
 
+npx create-react-app my-app
+
 npm run script
 
+Commands for fixes within project dependencies
+
 npm outdate
+
+npm audit
+npm audit --json
+
+npm audit fix
+
+npm audit fix --force

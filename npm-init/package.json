@@ -1,0 +1,23 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbatres/npm-basics.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Daniel Batres <danielbatresuser@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbatres/npm-basics/issues"
+  },
+  "homepage": "https://github.com/danielbatres/npm-basics#readme"
+}

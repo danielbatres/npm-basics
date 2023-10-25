@@ -29,3 +29,5 @@ NPM, node package manager
 NPX, node package execute
 
 npm run script
+
+npm outdate

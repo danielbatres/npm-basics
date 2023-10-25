@@ -24,3 +24,8 @@ npm install package -g
 
 npm install package@1.0.0
 npm install package@latest
+
+NPM, node package manager
+NPX, node package execute
+
+npm run script

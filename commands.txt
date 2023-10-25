@@ -1,0 +1,26 @@
+Initialization
+
+npm init
+npm init -y
+
+List
+
+npm list
+npm list -g
+
+Installation
+
+npm install
+
+npm install package --save
+npm install package -S
+npm install package --save-dev
+npm install package -D
+npm install package -o
+npm install package --dry-run
+npm install package = npm i package
+
+npm install package -g
+
+npm install package@1.0.0
+npm install package@latest

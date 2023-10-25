@@ -1,0 +1,16 @@
+{
+  "name": "random-string-messages-npm-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Batres <danielbatresuser@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-string-messages-npm-basics": "./bin/global.js"
+  },
+  "preferGlobal": true
+}

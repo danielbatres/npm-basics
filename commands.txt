@@ -25,6 +25,8 @@ npm install package -g
 npm install package@1.0.0
 npm install package@latest
 
+npm uninstall package
+
 NPM, node package manager
 NPX, node package execute
 
@@ -42,3 +44,11 @@ npm audit --json
 npm audit fix
 
 npm audit fix --force
+
+npm run build
+
+Verbose: npm run buil --dd 
+
+Deprecated libraries
+
+npm ci
